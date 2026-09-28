@@ -1,0 +1,9 @@
+accelerate==1.2.0
+dotenv==0.9.9
+einops==0.8.0
+lm_eval==0.4.9.1
+nnsight==0.3.7
+torch==2.5.1
+transformers==4.47.0
+jaxtyping==0.3.6
+matplotlib==3.10.8
